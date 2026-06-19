@@ -1,4 +1,5 @@
 # Rob Barnes - Cyber Security Portfolio
+<a href="https://www.linkedin.com/in/robertbarnes1990/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hi, I’m Rob Barnes. I’m currently working towards a career move into cyber security, with a focus on SOC analysis, defensive security and incident investigation.
 
@@ -6,7 +7,11 @@ My background includes hands-on technical troubleshooting, system configuration,
 
 I’m particularly interested in threat detection, investigation and understanding how attacks happen so they can be identified, contained and prevented in future. I’m also interested in the wider role cyber security plays in protecting organisations, personal information and people from digital threats.
 
-This portfolio documents my progress as I develop the skills needed to contribute effectively in a SOC environment. It includes learning notes, virtual home lab work, mock investigation write-ups and examples of my approach to troubleshooting, log review and security analysis.
+---
+
+## Aim
+
+The aim of this portfolio is to show the practical work I’m doing as I build towards my first cyber security role. I’m still early in my cyber career, but I’m committed to learning properly, practising hands-on and developing the habits needed to work effectively in a professional security environment.
 
 ---
 
@@ -14,6 +19,8 @@ This portfolio documents my progress as I develop the skills needed to contribut
 
 - Google Cybersecurity Professional Certificate - 4/9 courses completed
 - TryHackMe cyber security and SOC-focused learning
+    - Pre Cyber Pathway - Completed
+    - Cyber 101 Pathway - 70% Completed
 - CompTIA Security+ - studying
 - CompTIA Network+ - studying
 
@@ -25,9 +32,8 @@ This portfolio documents my progress as I develop the skills needed to contribut
 - Threat detection and investigation
 - Log analysis
 - Networking fundamentals
-- Incident response process
 - Windows and Linux fundamentals
-- Microsoft 365 and Active Directory concepts
+- Active Directory concepts
 - Virtual lab testing and documentation
 
 ---
@@ -36,7 +42,6 @@ This portfolio documents my progress as I develop the skills needed to contribut
 
 - Virtual home lab setup and notes
 - Mock SOC investigation write-ups
-- Security learning notes
 - Troubleshooting and triage checklists
 
 ---
@@ -50,8 +55,12 @@ The aim of the lab is to build practical confidence with system setup, network b
 Topics covered include:
 
 - Windows and Linux virtual machine setup
-- Basic virtual network configuration
+- Hyperviser configuration and management
+- Virtual network configuration
+- Firewall setup and configuration
+- Active Directory configuration
 - User accounts and permissions
+- SIEM Setup and config
 - Log review and event analysis
 - Connectivity troubleshooting
 - Safe testing in an isolated environment
@@ -59,14 +68,3 @@ Topics covered include:
 
 ---
 
-## Aim
-
-The aim of this portfolio is to show the practical work I’m doing as I build towards my first cyber security role. I’m still early in my cyber career, but I’m committed to learning properly, practising hands-on and developing the habits needed to work effectively in a professional security environment.
-
----
-
-## Contact
-
-- Email: robjb190@gmail.com
-- LinkedIn: [Add your LinkedIn URL here]
-- GitHub: [Add your GitHub profile URL here]
