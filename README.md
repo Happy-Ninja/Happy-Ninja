@@ -21,7 +21,7 @@ I’m particularly interested in threat detection, log analysis, network securit
 
 I’m documenting my practical learning here:
 
-[Cyber Security Portfolio](./cyber-security-portfolio/)
+[Cyber Security Portfolio](https://github.com/Happy-Ninja/cyber-security-portfolio)
 
 The portfolio includes projects covering:
 
